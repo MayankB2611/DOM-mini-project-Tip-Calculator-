@@ -1,1 +1,1 @@
-# DOM-mini-project-Tip-Calculator-
+# DOM-mini-project-Tip-Calculator
